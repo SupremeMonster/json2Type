@@ -1,0 +1,21 @@
+{
+  "name": "json2type-file",
+  "version": "1.0.0",
+  "description": "convert a valid json to typescript interface",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SupremeMonster/json2Type.git"
+  },
+  "keywords": [
+    "json",
+    "interface",
+    "typescript"
+  ],
+  "author": "suprememonster",
+  "bugs": {
+    "url": "https://github.com/SupremeMonster/json2Type/issues"
+  },
+  "homepage": "https://github.com/SupremeMonster/json2Type#readme"
+}

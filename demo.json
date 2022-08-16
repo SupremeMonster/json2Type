@@ -1,0 +1,7 @@
+{
+    "type": "Number",
+    "description": "测试number",
+    "name": "b",
+    "required": true,
+    "children": []
+}
